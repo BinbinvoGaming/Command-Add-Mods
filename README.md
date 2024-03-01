@@ -19,6 +19,11 @@ Password:commandaddmods1.0.0
 -Giap New
 -New Pet Woman
 -Cong Thuc 
-Block Mau Trang Den
-TiengMua Dia Nhac
+-Block Mau Trang Den
+-TiengMua Dia Nhac
+-Cong Cu BinbinvoGaming
+-TraoDoiVoiDanLang
+-TranhVe
+-New Item
+-NgheNghiepdanlang
 # Command-Add-Mods-End
