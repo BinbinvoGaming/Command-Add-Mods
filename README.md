@@ -56,5 +56,6 @@ New Item
 New Gun Lightning, Fireball, Super Sword
 New Block Upgrade Station
 # Command-Add-Mods-End
-#             WARNING!!!  
+#             WARNING!!!
+# Mods Is Discoonent
 #          THIS MODS HAS MANY ERRORS, SO IF PEOPLE DISCOVER THEM, THEY MUST BE NOTIFIED TO THE OWNER OF THIS MODS FOR CORRECTION.  YOU SHOULD NOT TAKE THIS TOXIC MODS.
