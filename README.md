@@ -7,6 +7,10 @@ Youtube:BinbinvoGaming🇻🇳
 Thank For Mcreator
 Mods By Mega Super🇻🇳, BinbinvoGaming🇻🇳 And Mcreator
 Link Download:👇 In Tag And Release 
+https://github.com/BinbinvoGaming/Command-Add-Mods/releases/tag/Command-add-mods Go To Update Version List
+# Command-Add-Mods List
+
+
 # Command-Add-Mods-1.0.0
 -Giap New
 -Cong Thuc
