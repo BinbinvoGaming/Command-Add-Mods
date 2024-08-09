@@ -1,3 +1,5 @@
+# Command-Add-Mods Install
+ Click To Install And Version https://github.com/BinbinvoGaming/Command-Add-Mods/releases/tag/Command-add-mods
 # Command-Add-Mods
 Thank For Mcreator!!!
 Version:1.0.0, 2.0.0, 3.0.0, 4.0.0,  5.0.0
